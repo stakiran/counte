@@ -1,3 +1,11 @@
+# counte
+# ------
+
+workspace.scb
+counte.json
+counte_*.scb
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
